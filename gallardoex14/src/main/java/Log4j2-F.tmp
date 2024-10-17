@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration name="VendingMachineConfig">
+    <Appenders>
+        <File name="HTMLAppender" fileName="logs/vendo_log.html" append="false">
+            <HTMLLayout charset="UTF-8" title="VendingMachine Log" locationInfo="true">
+                <pattern>%d %blue([%thread]) %highlight(%level) %logger{50} - %msg%n</pattern>
+            </HTMLLayout>
+        </File>
+    </Appenders>
+
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="HTMLAppender"/>
+        </Root>
+    </Loggers>
+</Configuration>

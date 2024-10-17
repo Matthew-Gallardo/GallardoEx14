@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration name="CheckStr config">
+    <Appenders>
+        <!-- Rolling File Appender -->
+        <RollingFile name="RollingFileAppender" fileName="logs/checkstr.log"
+                     filePattern="logs/checkstr-%d{yyyy-MM-dd-HH-mm-ss}.log">
+            <PatternLayout>
+                <Pattern>%d{yyyy/MM/dd HH:mm:ss,SSS} [%-5level] %logger{1} - %msg%n</Pattern>
+            </PatternLayout>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="10KB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="10"/>
+        </RollingFile>
+    </Appenders>
+
+    <Loggers>
+        <!-- Logger for ChekcStr -->
+        <Logger name="org.acumen.training.codes.ChekcStr" level="info" additivity="false">
+            <AppenderRef ref="RollingFileAppender"/>
+        </Logger>
+
+        <!-- Root logger configuration -->
+        <Root level="info">
+            <AppenderRef ref="RollingFileAppender"/>
+        </Root>
+    </Loggers>
+</Configuration>

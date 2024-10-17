@@ -1,0 +1,130 @@
+2024/10/17 02:33:54,689 [INFO ] CheckStr - Instantiating ChekcStr class
+2024/10/17 02:33:54,703 [INFO ] CheckStr - Executing binarise() with input: 5
+2024/10/17 02:33:54,703 [INFO ] CheckStr - Executing binarise() with input: 2
+2024/10/17 02:33:54,704 [INFO ] CheckStr - Executing binarise() with input: 1
+2024/10/17 02:33:54,704 [INFO ] CheckStr - Executing binarise() with input: 0
+2024/10/17 02:33:54,704 [INFO ] CheckStr - Finished executing binarise() in 0 ms
+2024/10/17 02:33:54,704 [INFO ] CheckStr - binarise() returning value: 10
+2024/10/17 02:33:54,704 [INFO ] CheckStr - Finished executing binarise() in 0 ms
+2024/10/17 02:33:54,704 [INFO ] CheckStr - binarise() returning value: 010
+2024/10/17 02:33:54,704 [INFO ] CheckStr - Finished executing binarise() in 0 ms
+2024/10/17 02:33:54,707 [INFO ] CheckStr - binarise() returning value: 1010
+2024/10/17 02:33:54,707 [INFO ] CheckStr - Finished executing binarise() in 4 ms
+2024/10/17 02:33:54,737 [INFO ] CheckStr - Instantiating ChekcStr class
+2024/10/17 02:33:54,737 [INFO ] CheckStr - Executing convert() with input: test
+2024/10/17 02:33:54,737 [INFO ] CheckStr - Executing total() with input: test
+2024/10/17 02:33:54,738 [INFO ] CheckStr - Executing total() with input: est
+2024/10/17 02:33:54,738 [INFO ] CheckStr - Executing total() with input: st
+2024/10/17 02:33:54,738 [INFO ] CheckStr - Executing total() with input: t
+2024/10/17 02:33:54,738 [INFO ] CheckStr - total() returning value: 116
+2024/10/17 02:33:54,738 [INFO ] CheckStr - Finished executing total() in 0 ms
+2024/10/17 02:33:54,738 [INFO ] CheckStr - total() returning value: 231
+2024/10/17 02:33:54,738 [INFO ] CheckStr - Finished executing total() in 0 ms
+2024/10/17 02:33:54,739 [INFO ] CheckStr - total() returning value: 332
+2024/10/17 02:33:54,739 [INFO ] CheckStr - Finished executing total() in 1 ms
+2024/10/17 02:33:54,739 [INFO ] CheckStr - total() returning value: 448
+2024/10/17 02:33:54,739 [INFO ] CheckStr - Finished executing total() in 1 ms
+2024/10/17 02:33:54,739 [INFO ] CheckStr - Executing binarise() with input: 448
+2024/10/17 02:33:54,739 [INFO ] CheckStr - Executing binarise() with input: 224
+2024/10/17 02:33:54,739 [INFO ] CheckStr - Executing binarise() with input: 112
+2024/10/17 02:33:54,740 [INFO ] CheckStr - Executing binarise() with input: 56
+2024/10/17 02:33:54,740 [INFO ] CheckStr - Executing binarise() with input: 28
+2024/10/17 02:33:54,740 [INFO ] CheckStr - Executing binarise() with input: 14
+2024/10/17 02:33:54,740 [INFO ] CheckStr - Executing binarise() with input: 7
+2024/10/17 02:33:54,740 [INFO ] CheckStr - Executing binarise() with input: 3
+2024/10/17 02:33:54,740 [INFO ] CheckStr - Executing binarise() with input: 1
+2024/10/17 02:33:54,740 [INFO ] CheckStr - Executing binarise() with input: 0
+2024/10/17 02:33:54,740 [INFO ] CheckStr - Finished executing binarise() in 0 ms
+2024/10/17 02:33:54,740 [INFO ] CheckStr - binarise() returning value: 10
+2024/10/17 02:33:54,740 [INFO ] CheckStr - Finished executing binarise() in 0 ms
+2024/10/17 02:33:54,741 [INFO ] CheckStr - binarise() returning value: 110
+2024/10/17 02:33:54,741 [INFO ] CheckStr - Finished executing binarise() in 1 ms
+2024/10/17 02:33:54,741 [INFO ] CheckStr - binarise() returning value: 1110
+2024/10/17 02:33:54,741 [INFO ] CheckStr - Finished executing binarise() in 1 ms
+2024/10/17 02:33:54,741 [INFO ] CheckStr - binarise() returning value: 01110
+2024/10/17 02:33:54,741 [INFO ] CheckStr - Finished executing binarise() in 1 ms
+2024/10/17 02:33:54,741 [INFO ] CheckStr - binarise() returning value: 001110
+2024/10/17 02:33:54,741 [INFO ] CheckStr - Finished executing binarise() in 1 ms
+2024/10/17 02:33:54,741 [INFO ] CheckStr - binarise() returning value: 0001110
+2024/10/17 02:33:54,742 [INFO ] CheckStr - Finished executing binarise() in 2 ms
+2024/10/17 02:33:54,742 [INFO ] CheckStr - binarise() returning value: 00001110
+2024/10/17 02:33:54,742 [INFO ] CheckStr - Finished executing binarise() in 3 ms
+2024/10/17 02:33:54,742 [INFO ] CheckStr - binarise() returning value: 000001110
+2024/10/17 02:33:54,742 [INFO ] CheckStr - Finished executing binarise() in 3 ms
+2024/10/17 02:33:54,742 [INFO ] CheckStr - binarise() returning value: 0000001110
+2024/10/17 02:33:54,742 [INFO ] CheckStr - Finished executing binarise() in 3 ms
+2024/10/17 02:33:54,742 [INFO ] CheckStr - convert() returning value: 0000001110
+2024/10/17 02:33:54,743 [INFO ] CheckStr - Finished executing convert() in 6 ms
+2024/10/17 02:33:54,747 [INFO ] CheckStr - Instantiating ChekcStr class
+2024/10/17 02:33:54,748 [INFO ] CheckStr - Executing total() with input: test
+2024/10/17 02:33:54,748 [INFO ] CheckStr - Executing total() with input: est
+2024/10/17 02:33:54,748 [INFO ] CheckStr - Executing total() with input: st
+2024/10/17 02:33:54,748 [INFO ] CheckStr - Executing total() with input: t
+2024/10/17 02:33:54,749 [INFO ] CheckStr - total() returning value: 116
+2024/10/17 02:33:54,749 [INFO ] CheckStr - Finished executing total() in 0 ms
+2024/10/17 02:33:54,749 [INFO ] CheckStr - total() returning value: 231
+2024/10/17 02:33:54,749 [INFO ] CheckStr - Finished executing total() in 1 ms
+2024/10/17 02:33:54,749 [INFO ] CheckStr - total() returning value: 332
+2024/10/17 02:33:54,749 [INFO ] CheckStr - Finished executing total() in 1 ms
+2024/10/17 02:33:54,749 [INFO ] CheckStr - total() returning value: 448
+2024/10/17 02:33:54,749 [INFO ] CheckStr - Finished executing total() in 1 ms
+2024/10/17 08:09:30,195 [INFO ] CheckStr - Instantiating ChekcStr class
+2024/10/17 08:09:30,210 [INFO ] CheckStr - Executing binarise() with input: 5
+2024/10/17 08:09:30,211 [INFO ] CheckStr - Executing binarise() with input: 2
+2024/10/17 08:09:30,211 [INFO ] CheckStr - Executing binarise() with input: 1
+2024/10/17 08:09:30,211 [INFO ] CheckStr - Executing binarise() with input: 0
+2024/10/17 08:09:30,212 [INFO ] CheckStr - Finished executing binarise() in 0 ms
+2024/10/17 08:09:30,212 [INFO ] CheckStr - binarise() returning value: 10
+2024/10/17 08:09:30,213 [INFO ] CheckStr - Finished executing binarise() in 2 ms
+2024/10/17 08:09:30,213 [INFO ] CheckStr - binarise() returning value: 010
+2024/10/17 08:09:30,214 [INFO ] CheckStr - Finished executing binarise() in 3 ms
+2024/10/17 08:09:30,214 [INFO ] CheckStr - binarise() returning value: 1010
+2024/10/17 08:09:30,214 [INFO ] CheckStr - Finished executing binarise() in 4 ms
+2024/10/17 08:09:30,291 [INFO ] CheckStr - Instantiating ChekcStr class
+2024/10/17 08:09:30,291 [INFO ] CheckStr - Executing convert() with input: test
+2024/10/17 08:09:30,291 [INFO ] CheckStr - Executing total() with input: test
+2024/10/17 08:09:30,291 [INFO ] CheckStr - Executing total() with input: est
+2024/10/17 08:09:30,292 [INFO ] CheckStr - Executing total() with input: st
+2024/10/17 08:09:30,292 [INFO ] CheckStr - Executing total() with input: t
+2024/10/17 08:09:30,292 [INFO ] CheckStr - total() returning value: 116
+2024/10/17 08:09:30,292 [INFO ] CheckStr - Finished executing total() in 0 ms
+2024/10/17 08:09:30,292 [INFO ] CheckStr - total() returning value: 231
+2024/10/17 08:09:30,293 [INFO ] CheckStr - Finished executing total() in 1 ms
+2024/10/17 08:09:30,293 [INFO ] CheckStr - total() returning value: 332
+2024/10/17 08:09:30,293 [INFO ] CheckStr - Finished executing total() in 1 ms
+2024/10/17 08:09:30,294 [INFO ] CheckStr - total() returning value: 448
+2024/10/17 08:09:30,294 [INFO ] CheckStr - Finished executing total() in 3 ms
+2024/10/17 08:09:30,294 [INFO ] CheckStr - Executing binarise() with input: 448
+2024/10/17 08:09:30,295 [INFO ] CheckStr - Executing binarise() with input: 224
+2024/10/17 08:09:30,295 [INFO ] CheckStr - Executing binarise() with input: 112
+2024/10/17 08:09:30,295 [INFO ] CheckStr - Executing binarise() with input: 56
+2024/10/17 08:09:30,296 [INFO ] CheckStr - Executing binarise() with input: 28
+2024/10/17 08:09:30,297 [INFO ] CheckStr - Executing binarise() with input: 14
+2024/10/17 08:09:30,297 [INFO ] CheckStr - Executing binarise() with input: 7
+2024/10/17 08:09:30,298 [INFO ] CheckStr - Executing binarise() with input: 3
+2024/10/17 08:09:30,298 [INFO ] CheckStr - Executing binarise() with input: 1
+2024/10/17 08:09:30,299 [INFO ] CheckStr - Executing binarise() with input: 0
+2024/10/17 08:09:30,299 [INFO ] CheckStr - Finished executing binarise() in 0 ms
+2024/10/17 08:09:30,299 [INFO ] CheckStr - binarise() returning value: 10
+2024/10/17 08:09:30,299 [INFO ] CheckStr - Finished executing binarise() in 0 ms
+2024/10/17 08:09:30,299 [INFO ] CheckStr - binarise() returning value: 110
+2024/10/17 08:09:30,299 [INFO ] CheckStr - Finished executing binarise() in 1 ms
+2024/10/17 08:09:30,299 [INFO ] CheckStr - binarise() returning value: 1110
+2024/10/17 08:09:30,299 [INFO ] CheckStr - Finished executing binarise() in 1 ms
+2024/10/17 08:09:30,300 [INFO ] CheckStr - binarise() returning value: 01110
+2024/10/17 08:09:30,300 [INFO ] CheckStr - Finished executing binarise() in 3 ms
+2024/10/17 08:09:30,300 [INFO ] CheckStr - binarise() returning value: 001110
+2024/10/17 08:09:30,300 [INFO ] CheckStr - Finished executing binarise() in 3 ms
+2024/10/17 08:09:30,300 [INFO ] CheckStr - binarise() returning value: 0001110
+2024/10/17 08:09:30,300 [INFO ] CheckStr - Finished executing binarise() in 5 ms
+2024/10/17 08:09:30,300 [INFO ] CheckStr - binarise() returning value: 00001110
+2024/10/17 08:09:30,300 [INFO ] CheckStr - Finished executing binarise() in 5 ms
+2024/10/17 08:09:30,300 [INFO ] CheckStr - binarise() returning value: 000001110
+2024/10/17 08:09:30,300 [INFO ] CheckStr - Finished executing binarise() in 5 ms
+2024/10/17 08:09:30,300 [INFO ] CheckStr - binarise() returning value: 0000001110
+2024/10/17 08:09:30,301 [INFO ] CheckStr - Finished executing binarise() in 6 ms
+2024/10/17 08:09:30,301 [INFO ] CheckStr - convert() returning value: 0000001110
+2024/10/17 08:09:30,301 [INFO ] CheckStr - Finished executing convert() in 10 ms
+2024/10/17 08:09:30,304 [INFO ] CheckStr - Instantiating ChekcStr class
+2024/10/17 08:09:30,305 [INFO ] CheckStr - Executing total() with input: test
+2024/10/17 08:09:30,305 [INFO ] CheckStr - Executing total() with input: est

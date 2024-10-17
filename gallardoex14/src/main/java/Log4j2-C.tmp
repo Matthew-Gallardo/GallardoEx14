@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration name="SimpleAppConfig">
+	<Appenders>
+		<!-- FileAppender to log messages to a file -->
+		<File name="FileAppender"
+			fileName="logs/simple_app.log" append="true">
+			<PatternLayout>
+				<!-- Custom pattern to match the required log format with correct file 
+					name -->
+				<Pattern>%level - %d{yyyy-MM-dd HH:mm:ss,SSS} - %C{1}.java – %msg%n
+				</Pattern>
+			</PatternLayout>
+		</File>
+	</Appenders>
+
+	<Loggers>
+		<!-- Logger configuration for SimpleApp -->
+		<Logger name="SimpleApp" level="info" additivity="false">
+			<AppenderRef ref="FileAppender" />
+		</Logger>
+
+		<!-- Root logger configuration -->
+		<Root level="info">
+			<AppenderRef ref="FileAppender" />
+		</Root>
+	</Loggers>
+</Configuration>

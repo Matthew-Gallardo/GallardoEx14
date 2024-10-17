@@ -1,0 +1,73 @@
+INFO - 2024-10-17 09:44:00,780 - SimpleApp.java – Here’s One!
+INFO - 2024-10-17 09:47:30,702 - CheckStr.java – Instantiating ChekcStr class
+INFO - 2024-10-17 09:47:30,720 - CheckStr.java – Executing binarise() with input: 5
+INFO - 2024-10-17 09:47:30,720 - CheckStr.java – Executing binarise() with input: 2
+INFO - 2024-10-17 09:47:30,721 - CheckStr.java – Executing binarise() with input: 1
+INFO - 2024-10-17 09:47:30,721 - CheckStr.java – Executing binarise() with input: 0
+INFO - 2024-10-17 09:47:30,721 - CheckStr.java – Finished executing binarise() in 0 ms
+INFO - 2024-10-17 09:47:30,721 - CheckStr.java – binarise() returning value: 10
+INFO - 2024-10-17 09:47:30,727 - CheckStr.java – Finished executing binarise() in 6 ms
+INFO - 2024-10-17 09:47:30,728 - CheckStr.java – binarise() returning value: 010
+INFO - 2024-10-17 09:47:30,728 - CheckStr.java – Finished executing binarise() in 8 ms
+INFO - 2024-10-17 09:47:30,728 - CheckStr.java – binarise() returning value: 1010
+INFO - 2024-10-17 09:47:30,728 - CheckStr.java – Finished executing binarise() in 8 ms
+INFO - 2024-10-17 09:47:30,771 - CheckStr.java – Instantiating ChekcStr class
+INFO - 2024-10-17 09:47:30,772 - CheckStr.java – Executing convert() with input: test
+INFO - 2024-10-17 09:47:30,772 - CheckStr.java – Executing total() with input: test
+INFO - 2024-10-17 09:47:30,773 - CheckStr.java – Executing total() with input: est
+INFO - 2024-10-17 09:47:30,773 - CheckStr.java – Executing total() with input: st
+INFO - 2024-10-17 09:47:30,773 - CheckStr.java – Executing total() with input: t
+INFO - 2024-10-17 09:47:30,774 - CheckStr.java – total() returning value: 116
+INFO - 2024-10-17 09:47:30,774 - CheckStr.java – Finished executing total() in 1 ms
+INFO - 2024-10-17 09:47:30,774 - CheckStr.java – total() returning value: 231
+INFO - 2024-10-17 09:47:30,774 - CheckStr.java – Finished executing total() in 1 ms
+INFO - 2024-10-17 09:47:30,775 - CheckStr.java – total() returning value: 332
+INFO - 2024-10-17 09:47:30,775 - CheckStr.java – Finished executing total() in 2 ms
+INFO - 2024-10-17 09:47:30,775 - CheckStr.java – total() returning value: 448
+INFO - 2024-10-17 09:47:30,775 - CheckStr.java – Finished executing total() in 2 ms
+INFO - 2024-10-17 09:47:30,776 - CheckStr.java – Executing binarise() with input: 448
+INFO - 2024-10-17 09:47:30,776 - CheckStr.java – Executing binarise() with input: 224
+INFO - 2024-10-17 09:47:30,776 - CheckStr.java – Executing binarise() with input: 112
+INFO - 2024-10-17 09:47:30,776 - CheckStr.java – Executing binarise() with input: 56
+INFO - 2024-10-17 09:47:30,777 - CheckStr.java – Executing binarise() with input: 28
+INFO - 2024-10-17 09:47:30,777 - CheckStr.java – Executing binarise() with input: 14
+INFO - 2024-10-17 09:47:30,777 - CheckStr.java – Executing binarise() with input: 7
+INFO - 2024-10-17 09:47:30,777 - CheckStr.java – Executing binarise() with input: 3
+INFO - 2024-10-17 09:47:30,777 - CheckStr.java – Executing binarise() with input: 1
+INFO - 2024-10-17 09:47:30,778 - CheckStr.java – Executing binarise() with input: 0
+INFO - 2024-10-17 09:47:30,778 - CheckStr.java – Finished executing binarise() in 0 ms
+INFO - 2024-10-17 09:47:30,778 - CheckStr.java – binarise() returning value: 10
+INFO - 2024-10-17 09:47:30,778 - CheckStr.java – Finished executing binarise() in 0 ms
+INFO - 2024-10-17 09:47:30,779 - CheckStr.java – binarise() returning value: 110
+INFO - 2024-10-17 09:47:30,779 - CheckStr.java – Finished executing binarise() in 2 ms
+INFO - 2024-10-17 09:47:30,779 - CheckStr.java – binarise() returning value: 1110
+INFO - 2024-10-17 09:47:30,779 - CheckStr.java – Finished executing binarise() in 2 ms
+INFO - 2024-10-17 09:47:30,779 - CheckStr.java – binarise() returning value: 01110
+INFO - 2024-10-17 09:47:30,780 - CheckStr.java – Finished executing binarise() in 3 ms
+INFO - 2024-10-17 09:47:30,780 - CheckStr.java – binarise() returning value: 001110
+INFO - 2024-10-17 09:47:30,780 - CheckStr.java – Finished executing binarise() in 3 ms
+INFO - 2024-10-17 09:47:30,781 - CheckStr.java – binarise() returning value: 0001110
+INFO - 2024-10-17 09:47:30,781 - CheckStr.java – Finished executing binarise() in 4 ms
+INFO - 2024-10-17 09:47:30,781 - CheckStr.java – binarise() returning value: 00001110
+INFO - 2024-10-17 09:47:30,781 - CheckStr.java – Finished executing binarise() in 5 ms
+INFO - 2024-10-17 09:47:30,782 - CheckStr.java – binarise() returning value: 000001110
+INFO - 2024-10-17 09:47:30,782 - CheckStr.java – Finished executing binarise() in 6 ms
+INFO - 2024-10-17 09:47:30,782 - CheckStr.java – binarise() returning value: 0000001110
+INFO - 2024-10-17 09:47:30,782 - CheckStr.java – Finished executing binarise() in 6 ms
+INFO - 2024-10-17 09:47:30,783 - CheckStr.java – convert() returning value: 0000001110
+INFO - 2024-10-17 09:47:30,783 - CheckStr.java – Finished executing convert() in 11 ms
+INFO - 2024-10-17 09:47:30,788 - CheckStr.java – Instantiating ChekcStr class
+INFO - 2024-10-17 09:47:30,789 - CheckStr.java – Executing total() with input: test
+INFO - 2024-10-17 09:47:30,789 - CheckStr.java – Executing total() with input: est
+INFO - 2024-10-17 09:47:30,789 - CheckStr.java – Executing total() with input: st
+INFO - 2024-10-17 09:47:30,790 - CheckStr.java – Executing total() with input: t
+INFO - 2024-10-17 09:47:30,790 - CheckStr.java – total() returning value: 116
+INFO - 2024-10-17 09:47:30,790 - CheckStr.java – Finished executing total() in 0 ms
+INFO - 2024-10-17 09:47:30,790 - CheckStr.java – total() returning value: 231
+INFO - 2024-10-17 09:47:30,791 - CheckStr.java – Finished executing total() in 0 ms
+INFO - 2024-10-17 09:47:30,791 - CheckStr.java – total() returning value: 332
+INFO - 2024-10-17 09:47:30,791 - CheckStr.java – Finished executing total() in 2 ms
+INFO - 2024-10-17 09:47:30,791 - CheckStr.java – total() returning value: 448
+INFO - 2024-10-17 09:47:30,791 - CheckStr.java – Finished executing total() in 2 ms
+INFO - 2024-10-17 09:47:30,807 - SimpleApp.java – Here’s One!
+INFO - 2024-10-17 09:47:30,831 - TrapArray.java – TrapArray starts. (2024-10-17)
