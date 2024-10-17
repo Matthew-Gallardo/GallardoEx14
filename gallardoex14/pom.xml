@@ -35,6 +35,8 @@
 	</dependencies>
 		<build>
 		<finalName>gallardo-ex13</finalName>
+		<sourceDirectory>src</sourceDirectory>
+		<testSourceDirectory>test</testSourceDirectory>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
